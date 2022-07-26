@@ -2,4 +2,14 @@
     background-color: red !important;
     color: white !important;
     border: 5px solid blue !important;
+    margin: 50px;
+}
+body {
+    text-align: center !important;
+}
+.button{
+    margin: 50px;
+}
+footer{
+    margin: 50px;
 }
