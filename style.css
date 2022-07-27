@@ -1,11 +1,12 @@
 #title {
-    background-color: red !important;
-    color: white !important;
-    border: 5px solid blue !important;
+    background-color: red;
+    color: white;
+    border: 5px solid blue;
     margin: 50px;
+    font-family: "Press Start 2P", cursive;
 }
 body {
-    text-align: center !important;
+    text-align: center;
 }
 .button{
     margin: 50px;
