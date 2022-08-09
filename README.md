@@ -27,7 +27,7 @@ Send me an email or reach out to me on GitHub.
 The goal is to make the application a Chrome Extension.
 
 ## License:
-No license necessary for this project.
+No license necessary to use this project, but please give credit and/or a citation.
 
 ## Questions
 Questions?  Contact Me:
