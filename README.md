@@ -32,6 +32,8 @@ No license necessary to use this project, but please give credit and/or a citati
 ## Questions
 Questions?  Contact Me:
 
-Email: carlson.matt.r@gmail.com
+[Email](carlson.matt.r@gmail.com)
 
-GitHub: https://github.com/mrmrc182
+[GitHub](https://github.com/mrmrc182)
+
+[Link to app](https://mrmrc182.github.io/short-reformat-watch/)  
